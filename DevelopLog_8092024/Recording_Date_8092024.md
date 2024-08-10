@@ -20,5 +20,15 @@
 
 4. #### After discussion, we chose back to use "宝塔面板" to install Discuz again.
 
+5. #### Install Discuz onto our server
+
+6. #### Bought a new domain name called rollking.wiki from Cheapname
+
+   ##### Cost:
+
+   ​	domain name + DNS:  $8.4 for a year
+
+3. #### Now the web can be accessed by the domain name
+
 
 
